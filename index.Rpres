@@ -49,6 +49,8 @@ We will use Google Trends as a base for collecting data and we will follow some 
 Statistical analyses
 ========================================================
 
+We'll do our statistical analysis on R
+
 As a statistical criteria, we'll use Pearson correlation coefficient (Pearson r) in both of our analyses
 
 
